@@ -21,9 +21,6 @@
 ## 📈 GitHub Stats
 
 ![linsanity-tech's GitHub stats](https://github-readme-stats.vercel.app/api?username=linsanity-tech&show_icons=true&theme=radical)
-
-## My Visitor
-![Visitor Count](https://profile-counter.glitch.me/linsanity-tech/count.svg)
 ---
 
 <!-- 
