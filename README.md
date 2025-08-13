@@ -1,4 +1,4 @@
-# Hi there, I'm linsanity-tech! 👋
+# Hi there, I'm Lin Yinpu! 👋
 
 🎓 **学生 | Student**  
 💻 **爱好编程**，主攻 Python 和 Go  
